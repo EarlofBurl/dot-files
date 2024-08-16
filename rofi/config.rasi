@@ -1,0 +1,8 @@
+/** Basic config file **/
+
+configuration {
+  modi: "window,windowcd,drun,run,ssh,combi,keys,filebrowser,emoji,calc";
+  show-icons:         true;
+  icon-theme:         "Papirus";
+}
+@theme "/usr/share/rofi/themes/gruvbox-dark-soft.rasi"
